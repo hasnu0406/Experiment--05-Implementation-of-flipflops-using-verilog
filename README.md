@@ -112,15 +112,32 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+### SR FLIPFLOPS:
+![Screenshot 2023-11-28 203537](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/fc9b9662-9d8c-499d-a1fb-c4ccc08fb13e)
 
+### D FLIPFLOP:
+![Screenshot 2023-11-28 203628](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/7bd07e79-c863-4af0-9f43-676c511114a7)
 
+### JK FLIPFLOP:
+![Screenshot 2023-11-28 203712](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/e954c5ec-c8e0-400f-88b6-9de3abb804d1)
 
+### T FLIPFLOP:
+![Screenshot 2023-11-28 203737](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/6730f5d9-3272-471d-852d-251569092754)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+### SR FLIPFLOPS:
+![SR-FLIFLOP-DIAGRAM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/3e37dc94-888e-4e29-b374-f10ad985b21d)
 
+### D FLIPFLOP:
+![D-FLIPFLOP-DIAGRAM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/23397e5f-8660-4f9a-b5fa-9e3ff872cbfb)
 
+### JK FLIPFLOP:
+![JK-FLIPFLOP-DIAGRAM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/64f9dfd3-1cdf-4ba3-9cfc-adf5179e576b)
+
+### T FLIPFLOP:
+![T-FLIPFLOP-DIAGRAM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/bef90a2e-5c13-4fac-8ecb-42844be8010e)
 
 
 
@@ -129,6 +146,17 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+### SR FLIPFLOPS:
+![SR-FLIFLOP-WAVEFORM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/db30b875-5436-4b16-ac11-c6deb3b3b5a2)
+
+### D FLIPFLOP:
+![D-FLIFLOP-WAVEFORM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/5638890d-fd8c-4d71-b750-c3c5db56fbc8)
+
+### JK FLIPFLOP:
+![JK-FLIPFLOP-WAVEFORM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/2e42db59-800d-4f34-a0ce-06ffbbafc1af)
+
+### T FLIPFLOP:
+![T-FLIPFLOP-WAVEFORM](https://github.com/hasnu0406/Experiment--05-Implementation-of-flipflops-using-verilog/assets/135305537/f79c7d7a-de59-464d-8c59-65f8c53c9f9f)
 
 
 
